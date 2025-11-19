@@ -1,0 +1,13 @@
+# Nmap 7.95 scan initiated Wed Nov 19 22:29:34 2025 as: /usr/lib/nmap/nmap -sn -oN /home/ankita/task5/scans/hosts_alive.txt 10.63.144.0/24
+Nmap scan report for 10.63.144.23
+Host is up (0.065s latency).
+MAC Address: 8A:48:EA:EA:45:4A (Unknown)
+Nmap scan report for 10.63.144.109
+Host is up (0.00054s latency).
+MAC Address: 74:3A:F4:F3:F6:E2 (Intel Corporate)
+Nmap scan report for 10.63.144.121
+Host is up (0.00033s latency).
+MAC Address: 08:00:27:4E:72:8A (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
+Nmap scan report for 10.63.144.226
+Host is up.
+# Nmap done at Wed Nov 19 22:29:38 2025 -- 256 IP addresses (4 hosts up) scanned in 3.33 seconds

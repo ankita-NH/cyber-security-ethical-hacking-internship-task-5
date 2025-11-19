@@ -1,0 +1,7 @@
+/index               [32m (Status: 200)[0m [Size: 891]
+/test                [36m (Status: 301)[0m [Size: 318][34m [--> http://10.63.144.121/test/][0m
+/twiki               [36m (Status: 301)[0m [Size: 319][34m [--> http://10.63.144.121/twiki/][0m
+/tikiwiki            [36m (Status: 301)[0m [Size: 322][34m [--> http://10.63.144.121/tikiwiki/][0m
+/phpinfo             [32m (Status: 200)[0m [Size: 47993]
+/server-status       [33m (Status: 403)[0m [Size: 299]
+/phpMyAdmin          [36m (Status: 301)[0m [Size: 324][34m [--> http://10.63.144.121/phpMyAdmin/][0m
